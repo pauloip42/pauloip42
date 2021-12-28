@@ -31,9 +31,12 @@
 
 <div style="display: inline_block">
     <details>
-      <summary>Coding Stats...</summary>      
-    <img src="https://wakatime.com/share/@paulotc1999/0414d5f0-87aa-4003-ae7c-56f8e3aa1c9b.svg" height="450" width="450"></img>
-    <img src="https://wakatime.com/share/@paulotc1999/65c563d5-a1e1-4c37-82ce-3c7a2b0c8f5a.svg" height="400" width="400"></img>
+      <summary>Coding Stats...</summary>
+      
+      <!--START_SECTION:waka-->
+      
+      <!--END_SECTION:waka-->
+      
     </details>
 </div>
 
