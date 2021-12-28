@@ -34,14 +34,14 @@
     <summary>Coding Stats...</summary>
     <img src="https://wakatime.com/share/@paulotc1999/0414d5f0-87aa-4003-ae7c-56f8e3aa1c9b.svg" height="450" width="450"></img>
     <img src="https://wakatime.com/share/@paulotc1999/65c563d5-a1e1-4c37-82ce-3c7a2b0c8f5a.svg" height="400" width="400"></img>
-    
-    <!--START_SECTION:waka-->
-    
-    
-    <!--END_SECTION:waka-->
     </details>
 </div>
 
  [![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+ 
+    <!--START_SECTION:waka-->
+    
+    
+    <!--END_SECTION:waka-->
 
