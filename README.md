@@ -1,8 +1,7 @@
-### Hi, I'm Paulo Lopes 👋
-##
-
-<p>🔭 I'm currently studying Computer Engineering at <a href="https://inatel.br/home/" target="_blank">INATEL</a></p>
-
+<div>
+  <h1> Hi, I'm Paulo Lopes 👋 </h1>
+  <p>🔭 I'm currently studying Computer Engineering at <a href="https://inatel.br/home/" target="_blank">INATEL</a></p>
+</div>
 <div align="center">
   <a href="https://github.com/paulotc1999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulotc1999&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
@@ -19,17 +18,22 @@
   <img align="center" alt="Paulo-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   
 </div>
-  
-  ##
-  <div> 
-  <a href="https://www.instagram.com/paulotc1999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulolopes99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</a>
+</br>
 
-  <div style="display: inline_block">
+<div style="display: inline_block">
     <details>
     <summary>Coding Stats...</summary>
     <img src="https://wakatime.com/share/@paulotc1999/0414d5f0-87aa-4003-ae7c-56f8e3aa1c9b.svg" height="450" width="450"></img>
     <img src="https://wakatime.com/share/@paulotc1999/65c563d5-a1e1-4c37-82ce-3c7a2b0c8f5a.svg" height="400" width="400"></img>
     </details>
+</div>  
+  
+  ##
+  <h2>Social Networks:</h2>
+ <div> 
+  <a href="https://www.instagram.com/paulotc1999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulolopes99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+
