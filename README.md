@@ -42,6 +42,59 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-482%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 199 Contributions in the Year 2021
+ > 
+> 📦 7.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    64 commits     ██████████░░░░░░░░░░░░░░░   42.38% 
+🌆 Daytime    39 commits     ██████░░░░░░░░░░░░░░░░░░░   25.83% 
+🌃 Evening    47 commits     ███████░░░░░░░░░░░░░░░░░░   31.13% 
+🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Tuesday      24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
+Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
+Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Friday       26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Saturday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Sunday       39 commits     ██████░░░░░░░░░░░░░░░░░░░   25.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+JavaScript               11 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 
