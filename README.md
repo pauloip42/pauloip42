@@ -39,9 +39,9 @@
 
  [![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+
+
 <!--START_SECTION:waka-->
-```text
-JavaScript   11 mins         █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
+
 
