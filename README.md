@@ -26,7 +26,10 @@
   
 </div>
 </a>
+
 </br>
+
+[![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div>
@@ -34,59 +37,7 @@
       <summary>Coding Stats...</summary>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-482%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 199 Contributions in the Year 2021
- > 
-> 📦 7.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    66 commits     ██████████░░░░░░░░░░░░░░░   43.14% 
-🌆 Daytime    39 commits     ██████░░░░░░░░░░░░░░░░░░░   25.49% 
-🌃 Evening    47 commits     ███████░░░░░░░░░░░░░░░░░░   30.72% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Wednesday    11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
-Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-Friday       26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99% 
-Saturday     16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-Sunday       39 commits     ██████░░░░░░░░░░░░░░░░░░░   25.49%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-JavaScript               11 mins             █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 28/12/2021
+  
 <!--END_SECTION:waka-->
 
 
