@@ -5,10 +5,10 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
-
+a
 jobs:
   update-readme:
-    name: paulotc1999
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
