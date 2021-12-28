@@ -34,7 +34,7 @@
 
 <div>
 <details>
-      <summary>Coding Stats...</summary>
+      <summary>Click here to see my coding stats...</summary>
       
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
