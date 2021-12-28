@@ -29,15 +29,15 @@
 </br>
 
 
-<div style="display: inline_block">
-    <details>
+<div>
+<details>
       <summary>Coding Stats...</summary>
       
-      <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
       
-      <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
       
-    </details>
+</details>
 </div>
 
  [![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
