@@ -3,7 +3,7 @@
   <p>🔭 I'm currently studying Computer Engineering at <a href="https://inatel.br/home/" target="_blank">INATEL</a>
   
   </p>
-  <div align="right"> 
+  <div align="center"> 
   <a href="https://www.instagram.com/paulotc1999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulotc1999/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
