@@ -37,7 +37,7 @@
       <summary>Click here to see my coding stats...</summary>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
@@ -87,7 +87,7 @@ Windows                  7 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 11/01/2022
+ Last Updated on 12/01/2022
 <!--END_SECTION:waka-->
 
 
