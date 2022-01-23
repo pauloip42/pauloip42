@@ -37,8 +37,6 @@
       <summary>Click here to see my coding stats...</summary>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-490%20Thousand%20lines%20of%20code-blue)
@@ -88,7 +86,7 @@ Linux                    1 hr 46 mins        █████░░░░░░�
 ```
 
 
- Last Updated on 23/01/2022 00:56:53 UTC
+ Last Updated on 23/01/2022 06:20:44 UTC
 <!--END_SECTION:waka-->
 
 
