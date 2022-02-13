@@ -11,7 +11,7 @@
 </div>
 <div align="left">
   <a href="https://github.com/paulotc1999">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulotc1999&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulotc1999&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulotc1999&layout=compact&langs_count=9&theme=dark"/>
 </div>
   
