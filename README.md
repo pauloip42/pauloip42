@@ -37,7 +37,7 @@
       <summary>Click here to see my coding stats...</summary>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -72,19 +72,19 @@ Sunday       41 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-HTML                     5 mins              █████████████████████████   100.0% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+HTML                     12 mins             ████████████████░░░░░░░░░   66.18% 
+PHP                      6 mins              ████████░░░░░░░░░░░░░░░░░   33.82%
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.0%
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/02/2022 18:22:45 UTC
+ Last Updated on 26/02/2022 06:22:50 UTC
 <!--END_SECTION:waka-->
 
 
