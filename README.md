@@ -40,7 +40,7 @@
       <summary>Click here to see my coding stats...</summary>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -102,7 +102,7 @@ Linux                    6 mins              ████████░░░�
 ```
 
 
- Last Updated on 01/03/2022 18:22:26 UTC
+ Last Updated on 02/03/2022 01:09:13 UTC
 <!--END_SECTION:waka-->
 
 
