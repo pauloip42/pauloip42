@@ -25,13 +25,8 @@
 
 </br>
 
-[![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <div>
-<details>
-      <summary>Click here to see my coding stats...</summary>
-      
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2055%20mins-blue)
 
