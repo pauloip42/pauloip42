@@ -30,7 +30,7 @@
 <div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -40,7 +40,7 @@
 
 > 🏆 203 Contributions in the Year 2022
  > 
-> 📦 9.2 kB Used in GitHub's Storage 
+> 📦 9.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,7 +105,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2022 18:24:11 UTC
+ Last Updated on 13/04/2022 01:24:39 UTC
 <!--END_SECTION:waka-->
 
 
