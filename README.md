@@ -21,7 +21,7 @@
 
 </br>
 
-[![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=paulotc1999&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Paulo's github activity graph](https://activity-graph.herokuapp.com/graph?username=pauloip42&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
 <details>
